@@ -45,8 +45,8 @@
     "packageManager": "yarn@3.3.1",
     "dependencies": {
         "@chainlink/contracts": "^0.8.0",
-        "@openzeppelin/contracts": "4.9.3",
-        "@openzeppelin/contracts-upgradeable": "4.9.3",
+        "@openzeppelin/contracts": "4.9.6",
+        "@openzeppelin/contracts-upgradeable": "5.6.1",
         "ethers": "^5.7.2"
     }
 }
